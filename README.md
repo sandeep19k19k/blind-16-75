@@ -15,6 +15,7 @@ kind of similar to fibonacci problem.
 2) Take 2 steps after n-2 steps.
 
  i.e  if no.of ways to complete n-2 steps is x, for each of those possible ways ,just take two  additional steps.
+ 
 Basically, you can get the idea by analyzing the examples.
 
 no.of steps= 1 2 3 4 5 6 
